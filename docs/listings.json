@@ -1,8 +1,23 @@
 [
   {
-    "listing": "/blog/index.html",
+    "listing": "/readings.html",
     "items": [
-      "/blog/posts/Biases.html"
+      "/readings/Alias Grace.html",
+      "/readings/The Joy of x.html",
+      "/readings/Introducing Mathematical Biology.html",
+      "/readings/Men of Mathematics.html",
+      "/readings/Madame Curie.html",
+      "/readings/Autobiography of a Yogi (Complete Edition).html",
+      "/readings/Gitanjali.html",
+      "/readings/48 Laws Of Power.html",
+      "/readings/Exhalation - Stories.html",
+      "/readings/Metamorphosis.html",
+      "/readings/Letters to a Young Poet.html",
+      "/readings/The Beginning of Infinity.html",
+      "/readings/Gilead (2005 Pulitzer Prize).html",
+      "/readings/The Art of War.html",
+      "/readings/Total Freedom - The Essential Krishnamurti.html",
+      "/readings/Sum - Forty Tales from the Afterlives.html"
     ]
   }
 ]
