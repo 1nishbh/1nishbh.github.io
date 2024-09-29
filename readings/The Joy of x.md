@@ -1,7 +1,6 @@
 # 📚 The Joy of x
 
 **Author:** Steven Strogatz  
-**Link:** [Apple Books](ibooks://assetid/87557603CEB73A58830B33CBCBD3B9AF)
 
 ## 📝 Annotations (13)
 

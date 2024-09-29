@@ -1,7 +1,6 @@
 # 📚 The Art of War
 
 **Author:** active 6th century B.C. Sunzi  
-**Link:** [Apple Books](ibooks://assetid/94271BA7008BC7C395376799BEF55119)
 
 ## 📝 Annotations (3)
 

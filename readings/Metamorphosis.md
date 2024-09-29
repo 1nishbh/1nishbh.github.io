@@ -1,7 +1,6 @@
 # 📚 Metamorphosis
 
 **Author:** Franz Kafka  
-**Link:** [Apple Books](ibooks://assetid/1C919EBB816DC6532E821F4F9A3DF831)
 
 ## 📝 Annotations (3)
 

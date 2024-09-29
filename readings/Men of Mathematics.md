@@ -1,7 +1,6 @@
 # 📚 Men of Mathematics
 
 **Author:** E.T. Bell  
-**Link:** [Apple Books](ibooks://assetid/08BBA554D29FC38FF11F0F38531CAFE2)
 
 ## 📝 Annotations (4)
 

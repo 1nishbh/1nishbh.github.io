@@ -1,7 +1,6 @@
 # 📚 Sum - Forty Tales from the Afterlives
 
 **Author:** David Eagleman  
-**Link:** [Apple Books](ibooks://assetid/6FC889EB5D3DDFAFF92B09DE05FE2068)
 
 ## 📝 Annotations (49)
 

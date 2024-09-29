@@ -1,7 +1,6 @@
 # 📚 Alias Grace
 
 **Author:** Margaret Atwood  
-**Link:** [Apple Books](ibooks://assetid/F9379EB5FB2CBECE8ADDD9B337C3F94F)
 
 ## 📝 Annotations (22)
 

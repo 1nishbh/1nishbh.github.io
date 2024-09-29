@@ -1,7 +1,6 @@
 # 📚 48 Laws Of Power
 
 **Author:** UnknownAuthor  
-**Link:** [Apple Books](ibooks://assetid/BB028E195DD90E84F06298038682EA40)
 
 ## 📝 Annotations (15)
 

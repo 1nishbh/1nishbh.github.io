@@ -1,7 +1,6 @@
 # 📚 The Beginning of Infinity
 
 **Author:** David Deutsch  
-**Link:** [Apple Books](ibooks://assetid/3EF9F807DAD88AA9FF61B970ED962990)
 
 ## 📝 Annotations (14)
 

@@ -1,7 +1,6 @@
 # 📚 Autobiography of a Yogi (Complete Edition)
 
 **Author:** Yogananda, Paramahansa  
-**Link:** [Apple Books](ibooks://assetid/3A3F12816CE1F20BF1C8D07D11A8D50C)
 
 ## 📝 Annotations (11)
 

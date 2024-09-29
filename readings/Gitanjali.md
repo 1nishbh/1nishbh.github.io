@@ -1,7 +1,6 @@
 # 📚 Gitanjali
 
 **Author:** Rabindranath Tagore  
-**Link:** [Apple Books](ibooks://assetid/30E88CADD2B21A6A6C932159C2FC7D78)
 
 ## 📝 Annotations (7)
 

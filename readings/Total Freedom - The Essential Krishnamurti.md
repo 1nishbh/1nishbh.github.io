@@ -1,7 +1,6 @@
 # 📚 Total Freedom - The Essential Krishnamurti
 
 **Author:** Krishnamurti  
-**Link:** [Apple Books](ibooks://assetid/E660C2D8F46C45D301854B8F71B51F45)
 
 ## 📝 Annotations (9)
 

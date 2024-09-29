@@ -1,7 +1,6 @@
 # 📚 Letters to a Young Poet
 
 **Author:** Rainer Maria  Rilke  
-**Link:** [Apple Books](ibooks://assetid/5F03CF1CFF2204229CBEF299AAE535DF)
 
 ## 📝 Annotations (26)
 

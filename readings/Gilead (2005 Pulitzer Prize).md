@@ -1,7 +1,6 @@
 # 📚 Gilead (2005 Pulitzer Prize)
 
 **Author:** Marilynne Robinson  
-**Link:** [Apple Books](ibooks://assetid/5046077EE87C99F75AD6877B0A1BF4B1)
 
 ## 📝 Annotations (29)
 

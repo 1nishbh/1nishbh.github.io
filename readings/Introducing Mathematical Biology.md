@@ -1,7 +1,6 @@
 # 📚 Introducing Mathematical Biology
 
 **Author:** Alex Best  
-**Link:** [Apple Books](ibooks://assetid/878592536B004EF69C7EA676CA6968C5)
 
 ## 📝 Annotations (5)
 

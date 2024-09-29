@@ -1,7 +1,6 @@
 # 📚 Madame Curie
 
 **Author:** Eve Curie  
-**Link:** [Apple Books](ibooks://assetid/7AF4C722234120A800952B190C367085)
 
 ## 📝 Annotations (13)
 

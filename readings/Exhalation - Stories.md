@@ -1,7 +1,6 @@
 # 📚 Exhalation - Stories
 
 **Author:** Ted Chiang  
-**Link:** [Apple Books](ibooks://assetid/B61FBFEEDA905C93BBFA4DF77F76EAA4)
 
 ## 📝 Annotations (17)
 
