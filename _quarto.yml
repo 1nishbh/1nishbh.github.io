@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   title: "Nischal Bhandari"
 
@@ -9,23 +9,17 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - text: "Projects"
-        href: projects
       - text: "Readings"
         href: readings.qmd
       - text: "Blog"
-        href: blog
+        href: blogs.qmd
+      - text: "Reach Out"
+        href: reach-out.qmd
     
   page-footer:
     left: "NAN"
 
 format:
   html:
-    theme: [sandstone, _variables.scss]
     css: styles.css
-    mainfont: Roboto
-    link-external-newwindow: true
-    link-external-icon: true
-    include-in-header:
-      - text: |
-          <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    

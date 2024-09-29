@@ -12,12 +12,12 @@
 ---
 
 
->  I don't know if I ever actually cried, but I know I spent a lot of time trying not to.   
+> I have not the heart to say one word that you might remember against me  
 
 ---
 
 
-> I have not the heart to say one word that you might remember against me  
+>  I don't know if I ever actually cried, but I know I spent a lot of time trying not to.   
 
 ---
 

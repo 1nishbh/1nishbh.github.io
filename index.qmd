@@ -1,17 +1,24 @@
 ---
 title: "Home"
-
+page-layout: full
+title-block-banner: true
 ---
 
+**Hello, Welcome to my portfolio.**
+
+*My goal here is to keep track of what I am doing and to compile things for my own reference. If any of these things can be of your help, it's my pleasure.*
+
+\
+
+[Resume](https://1nishbh.github.io/resume/){target="_blank"}
 
 
-
-
-
-
-
-
+\
 
 ## Projects
+\
 
 ### [ओभानो](https://1nishbh.github.io/-/#/title-slide){target="_blank"}
+\
+
+### [Where are We Going? Tracing the Ever-Evolving Tale of Human Migration](https://1nishbh.github.io/Migration-Our-Story-as-a-Mobile-Species/blog.html){target="_blank"}
