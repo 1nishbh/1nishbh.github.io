@@ -17,7 +17,7 @@ website:
         href: reach-out.qmd
     
   page-footer:
-    left: "NAN"
+    left: "..."
 
 format:
   html:

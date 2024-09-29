@@ -1,14 +1,13 @@
 ---
-title: "Readings"
 listing:
   contents: readings
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
-  filter-ui: false
+  filter-ui: true
 page-layout: full
 title-block-banner: true
 ---
 
-**Welcome to my reading list! Here you'll find highlights, summaries, reviews, and thoughts on various books and articles I've read.**
+*Welcome to my reading list! Here you'll find highlights, summaries, reviews, and thoughts on various books and articles I've read.*

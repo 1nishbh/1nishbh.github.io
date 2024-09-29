@@ -1,58 +1,134 @@
 /* Global styles */
+:root {
+  --primary-color: #333;
+  --link-color: red;
+  --font-size-base: 16px;
+  --line-height: 1.6;
+}
+
+html {
+  font-size: var(--font-size-base);
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
-    color: #333;
-    max-width: 100%; /* Ensure body uses full width */
-    margin: 0; /* Remove default margins */
-    padding: 0; /* Remove default padding */
-  }
-  
-  /* Title styles */
+  font-family: 'Roboto', sans-serif;
+  line-height: var(--line-height);
+  color: var(--primary-color);
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Responsive container */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Title styles */
+h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+@media (min-width: 768px) {
   h1 {
-    font-size: 3rem; /* Increase font size for main title */
-    text-align: center; /* Center the title */
-    margin-top: 2rem; /* Add some space above */
+    font-size: 2.5rem;
   }
-  
-  .title-block-banner {
-    padding: 2rem; /* Add padding around the title block */
-  }
-  
-  /* Content styles */
-  .content-block {
-    max-width: 1200px; /* Set a max width for larger screens */
-    margin: 0 auto; /* Center content on larger screens */
-    padding: 2rem; /* Add padding for spacing */
-  }
-  
-  /* Text styles for headings and paragraphs */
+}
+
+.title-block-banner {
+  padding: 1.5rem;
+}
+
+/* Content styles */
+h2, h3, h4, h5, h6 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
   h2, h3, h4, h5, h6 {
-    font-size: 3rem; /* Increase heading sizes */
+    font-size: 1.75rem;
   }
   
   p {
-    font-size: 2.5rem; /* Increase paragraph font size */
+    font-size: 1.125rem;
   }
-  
-  /* Link styles */
-  a {
-    color: red; /* Set link color to red */
-    text-decoration: none; /* Remove underline from links */
-  }
-  
-  a:hover {
-    text-decoration: underline; /* Underline on hover for better visibility */
-  }
-  
-  /* Navbar adjustments (if needed) */
-  .navbar a {
-    font-size: 1.5rem; /* Increase navbar link size */
-  }
-  
-  /* Footer styles (if applicable) */
-  .footer a {
-    color: red; /* Ensure footer links are also red */
-  }
+}
 
-  
+/* Link styles */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: text-decoration 0.3s ease;
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+/* Navbar adjustments */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.navbar a {
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
+@media (min-width: 768px) {
+  .navbar a {
+    font-size: 1.125rem;
+  }
+}
+
+/* Footer styles */
+.footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.footer a {
+  color: var(--link-color);
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+
+.hidden-mobile {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .hidden-mobile {
+    display: initial;
+  }
+}
