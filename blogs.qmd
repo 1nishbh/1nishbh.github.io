@@ -21,4 +21,4 @@ title-block-banner: true
                  -Marcus Aurelius 
 ```
 
-<!--# The goal maybe is to minimize the time spent being fearful and worried about our bunch of insecurities and maximize the overall time in life where we can operate on a driven mode. -->
+> The goal maybe is to minimize the time spent being fearful and worried about our bunch of insecurities and maximize the overall time in life where we can operate on a driven mode.
