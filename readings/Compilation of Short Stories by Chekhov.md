@@ -2,7 +2,22 @@
 
 **Author:** Anton Pavlovich Chekhov  
 
-## 📝 Annotations (7)
+## 📝 Annotations (9)
+
+---
+
+
+> It is a hard-working, an uninteresting life,
+and only silent,  
+
+---
+
+
+> Teachers, badly paid doctors, and their
+assistants, with their terribly hard work, have not even the comfort of
+thinking that they are serving an idea or the people, as their heads are
+always stuffed with thoughts of their daily bread, of wood for the fire,
+of bad roads, of illnesses  
 
 ---
 
