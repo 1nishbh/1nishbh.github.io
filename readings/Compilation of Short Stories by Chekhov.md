@@ -2,7 +2,45 @@
 
 **Author:** Anton Pavlovich Chekhov  
 
-## 📝 Annotations (9)
+## 📝 Annotations (14)
+
+---
+
+
+> Daily experience might have taught my wife that constantly talking of our
+expenses does not reduce them, but my wife refuses to learn by experience,
+and regularly every morning discusses our officer son, and tells me that
+bread, thank God, is cheaper, while sugar is a halfpenny dearer—with
+a tone and an air as though she were communicating interesting news.  
+
+---
+
+
+> and there was nothing in
+life for which one would give the devil even a tiny scrap of one’s
+soul.  
+
+---
+
+
+> “Is it the proper thing for gentlefolk to be disorderly in the
+street?” a policeman said to him. “You had better go into a
+tavern!”
+  
+
+---
+
+
+> “Your honor, gentlefolk must not sing in the street! You are not a
+shoemaker!”
+  
+
+---
+
+
+> When Fyodor was poor he used to pray
+in church like this: “God, forgive me, a sinner!” He said the
+same thing now though he had become rich.  
 
 ---
 
