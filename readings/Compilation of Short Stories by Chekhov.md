@@ -2,7 +2,104 @@
 
 **Author:** Anton Pavlovich Chekhov  
 
-## 📝 Annotations (14)
+## 📝 Annotations (27)
+
+---
+
+
+> He was not asleep, though it was
+his habit to go to sleep at the same time as the hens.  
+
+---
+
+
+> “It’s very nice making daydreams at other people’s expense!”  
+
+---
+
+
+> I want our wives, our children, our friends, our pupils, to love in us,
+not our fame, not the brand and not the label, but to love us as ordinary
+men.  
+
+---
+
+
+> They are readily carried away by the influence of
+the last new writers, even when they are not first-rate, but they take
+absolutely no interest in classics such as Shakespeare, Marcus Aurelius,
+Epictetus, or Pascal, and this inability to distinguish the great from the
+small betrays their ignorance of practical life more than anything  
+
+---
+
+
+> in old days I hated violence and tyranny, but now I hate
+the men who make use of violence, as though they were alone to blame, and
+not all of us who do not know how to educate each other.  
+
+---
+
+
+> From childhood I have been accustomed to resisting
+external influences, and have steeled myself pretty thoroughly. Such
+catastrophes in life as fame, the rank of a general, the transition from
+comfort to living beyond our means, acquaintance with celebrities, etc.,
+have scarcely affected me, and I have remained intact and unashamed;  
+
+---
+
+
+> My rank as a general and my fame have
+robbed me for ever of cabbage-soup and savoury pies, and goose with
+apple-sauce, and bream with boiled grain.  
+
+---
+
+
+> “It’s very neglectful, anyway. To sit for three hours in the study without
+remembering our existence! But of course she must do as she likes.”  
+
+---
+
+
+> “I have more than once happened to converse with old actors, very worthy
+men, who showed a friendly disposition towards me; from my conversations
+with them I could understand that their work was controlled not so much by
+their own intelligence and free choice as by fashion and the mood of the
+public. The best of them had had to play in their day in tragedy, in
+operetta, in Parisian farces, and in extravaganzas, and they always seemed
+equally sure that they were on the right path and that they were of use.
+So, as you see, the cause of the evil must be sought, not in the actors,
+but, more deeply, in the art itself and in the attitude of the whole of
+society to it.”  
+
+---
+
+
+> As in the past, for no
+sort of reason, music is played in the intervals, which adds something new
+and uncalled-for to the impression made by the play. As in the past, men
+go in the intervals and drink spirits in the buffet. If no progress can be
+seen in trifles, I should look for it in vain in what is more important.  
+
+---
+
+
+> And when at last I go back into my study my face still
+goes on smiling, I suppose from inertia.  
+
+---
+
+
+> embittered man who can harbour evil thoughts about ordinary people because
+they are not heroes.  
+
+---
+
+
+> Such thoughts about my
+children poison me. What is the use of them?  
 
 ---
 
