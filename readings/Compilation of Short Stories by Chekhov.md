@@ -2,7 +2,16 @@
 
 **Author:** Anton Pavlovich Chekhov  
 
-## 📝 Annotations (27)
+## 📝 Annotations (28)
+
+---
+
+
+> But at last she had finished a sack. She flung it aside, and, stretching
+luxuriously, rested her motionless, lack-lustre eyes on the window. The
+panes were swimming with drops like tears, and white with short-lived
+snowflakes which fell on the window, glanced at Raissa, and melted....
+  
 
 ---
 
