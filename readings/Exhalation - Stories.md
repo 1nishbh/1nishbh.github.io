@@ -2,7 +2,52 @@
 
 **Author:** Ted Chiang  
 
-## 📝 Annotations (35)
+## 📝 Annotations (43)
+
+---
+
+
+> Even if humanity is not the reason for which the universe was made, I still wish to understand the way it operates.  
+
+---
+
+
+> The evidence has always been there for us to find: the trees without growth rings, the mummies without navels, the motion of 58 Eridani. It is up to us what we do with that.  
+
+---
+
+
+> Every act of volition is, like the creation of the universe, a first cause.  
+
+---
+
+
+> I agree that a project lasting longer than a human life span provides its participants with aspirations beyond the temporal.   
+
+---
+
+
+> The past has left its traces on the world, and we only have to know how to read them.  
+
+---
+
+
+> education is just as important a part of an archaeologist’s job as fieldwork.  
+
+---
+
+
+>  Because even if a universe’s life span is calculable, the variety of life that is generated within it is not. The buildings we have erected, the art and music and verse we have composed, the very lives we’ve led: none of them could have been predicted, because none of them was inevitable.  
+
+---
+
+
+> through the act of reading my words, the patterns that form your thoughts become an imitation of the patterns that once formed mine. And in that way I live again, through you.  
+
+---
+
+
+> The pattern that is me, the patterns that are the entire world in which I live, would be gone.  
 
 ---
 
@@ -109,11 +154,6 @@
 
 
 > People used to speculate about a thought that destroys the thinker, some unspeakable Lovecraftian horror, or a Gödel sentence that crashes the human logical system.  
-
----
-
-
-> The buildings we have erected, the art and music and verse we have composed, the very lives we’ve led: none of them could have been predicted, because none of them was inevitable.  
 
 ---
 
