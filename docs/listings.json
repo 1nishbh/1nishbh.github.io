@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/blogs.html",
+    "items": [
+      "/blog/ek_ghar_ek_kitab.html"
+    ]
+  },
+  {
     "listing": "/readings.html",
     "items": [
       "/readings/The Joy of x.html",

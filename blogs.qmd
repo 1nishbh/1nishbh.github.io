@@ -1,24 +1,15 @@
 ---
+listing:
+  contents: blog
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: true
+  filter-ui: true
 page-layout: full
 title-block-banner: true
 ---
 
-## [Blog at Medium](https://nistar.medium.com){target="_blank"}
+# Welcome to My Blog
 
-\
-
-# Snippets
-
-## 1. "If money is all you seek, you will be bought and sold all your life. "
-
-```         
-                  -Rumi
-```
-
-## 2. "Take the shortest, honest path to action, utterance, or ideas."
-
-```         
-                 -Marcus Aurelius 
-```
-
-> The goal maybe is to minimize the time spent being fearful and worried about our bunch of insecurities and maximize the overall time in life where we can operate on a driven mode.
+Here you can find all my latest articles.
