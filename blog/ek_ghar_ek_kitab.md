@@ -1,13 +1,14 @@
 ## Ek Ghar Ek Kitab 
 
-The idea is to gift books to a remote village in Rolpa. 
-- buy different book for each house
-- prioritize the exchange of books once the students are done reading the one that they got at the time of distribution.
-- in nutshell, a village with 100 house will have 100 different books. So a person might actually be able to read >5 books a year through exchanges. 
-- if nobody at a house has started reading the book and a person from another house has finished the originally given book, the person who completed the book should be entitled an exchange. 
-- the database of books and who has been given which one initially can be published. but no need to keep updating. 
+The aim is to provide books to a remote village in Rolpa. 
 
-### genres and scope of book
-- mix of non-fiction and fiction: maybe 80-20
-- translated and original nepali works (maybe 10 percent english books)
-- targetted public is students in grades 5 to 10.
+- A unique book for each household.
+- The exchange of books will be prioritized once the students have finished reading the book they received during the distribution.
+- a village with 100 households will have 100 different books, for example. a person should easily be able to read more than 5 books a year through exchanges. 
+- If nobody in a household has started reading the book and a person from another household has finished the originally given book, the person who completed the book should be entitled to an exchange. 
+- The database of books and their initial recipients can be published, but there is no need to keep it updated. 
+
+### Genres and Scope of Books
+-  a mix of non-fiction and fiction, maybe 80:20.
+-  translated and original Nepali works, with maybe 10-20% English books.
+- The target audience is students in grades 5 to 10.
