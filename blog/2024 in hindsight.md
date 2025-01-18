@@ -1,3 +1,5 @@
+## 2024 in hindsight
+
 ### Snapshots
 - went to farwest-nepal
 - graduated
