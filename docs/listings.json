@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/blogs.html",
-    "items": [
-      "/blog/ek_ghar_ek_kitab.html"
-    ]
-  },
-  {
     "listing": "/readings.html",
     "items": [
       "/readings/The Joy of x.html",
@@ -26,6 +20,13 @@
       "/readings/Total Freedom - The Essential Krishnamurti.html",
       "/readings/What We Owe to Future People.html",
       "/readings/Sum - Forty Tales from the Afterlives.html"
+    ]
+  },
+  {
+    "listing": "/blogs.html",
+    "items": [
+      "/blog/ek_ghar_ek_kitab.html",
+      "/blog/2024 in hindsight.html"
     ]
   }
 ]
