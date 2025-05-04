@@ -5,13 +5,12 @@ tags:
 format: html
 ---
 
-# 📔 Book: Letters to a Young Poet
 
 **Author**: Rainer Maria  Rilke  
 **Language**: 
 
 
-## 🖍️ Notes and Highlights
+## 📝  Notes and Highlights
 
 - 📚 
 
