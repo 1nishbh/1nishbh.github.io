@@ -1,7 +1,7 @@
 ---
 listing:
   contents: blog
-  sort: "date desc"
+  sort: "last-modified desc"
   type: default
   categories: false
   sort-ui: true
