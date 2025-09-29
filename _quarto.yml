@@ -1,10 +1,8 @@
 project:
   type: website
   output-dir: docs
-  
 website:
   title: "Nischal Bhandari"
-
   navbar:
     right:
       - text: "Home"
@@ -15,7 +13,6 @@ website:
         href: blogs.qmd
       - text: "Reach Out"
         href: reach-out.qmd
-    
   page-footer:
     left: "..."
 

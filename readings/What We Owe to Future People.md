@@ -10,9 +10,7 @@ tags:
 **LANGUAGE**:: en
 
 
-
----
-# Notes and Highlights
+## Notes and Highlights
 
 - 📚
 	- <mark style="background: #E6A5AB;">Intergenerational ethics is not just philosophically interesting; it is also of great practical importance, especially given human beings’ ability to affect the quality of life of the people who will inhabit the world in the future.</mark>

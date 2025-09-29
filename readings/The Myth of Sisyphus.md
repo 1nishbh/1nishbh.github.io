@@ -10,12 +10,10 @@ tags:
 **LANGUAGE**:: en-US
 
 
----
-# 🧾 Description
+## 🧾 Description
 One of the most influential works of this century, The Myth of Sisyphus and Other Essays is a crucial exposition of existentialist thought. Influenced by works such as Don Juan and the novels of Kafka, these essays begin with a meditation on suicide; the question of living or not living in a universe devoid of order or meaning. With lyric eloquence, Albert Camus brilliantly posits a way out of despair, reaffirming the value of personal existence, and the possibility of life lived with dignity and authenticity.
 
----
-# Notes and Highlights
+## Notes and Highlights
 
 - 📚
 	- <mark style="background: #B0D17F;">We get into the habit of living before acquiring the habit of thinking</mark>
