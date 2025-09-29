@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/readings.html",
+    "items": [
+      "/readings/Letters to a Young Poet.html",
+      "/readings/2666.html",
+      "/readings/What We Owe to Future People.html",
+      "/readings/The Myth of Sisyphus.html"
+    ]
+  },
+  {
     "listing": "/blogs.html",
     "items": [
       "/blog/ek_ghar_ek_kitab.html",
