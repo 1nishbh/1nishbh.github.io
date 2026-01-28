@@ -1,3 +1,10 @@
+---
+title: "Ek Ghar Ek Kitab"
+date: 2024-12-25
+description: "A book distribution initiative for a remote village in Rolpa, Nepal"
+categories: [project, initiative]
+---
+
 ## Ek Ghar Ek Kitab 
 
 The aim is to provide books to a remote village in Rolpa. 

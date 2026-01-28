@@ -1,3 +1,10 @@
+---
+title: "2024 in hindsight"
+date: 2025-01-18
+description: "Reflections on the year 2024: travels, readings, and future plans"
+categories: [reflection, personal]
+---
+
 ## 2024 in hindsight
 
 ### Snapshots

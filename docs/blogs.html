@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -175,9 +175,11 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="books">books <span class="quarto-category-count">(1)</span></div><div class="category" data-category="essays">essays <span class="quarto-category-count">(1)</span></div><div class="category" data-category="initiative">initiative <span class="quarto-category-count">(1)</span></div><div class="category" data-category="personal">personal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="project">project <span class="quarto-category-count">(1)</span></div><div class="category" data-category="reading-list">reading-list <span class="quarto-category-count">(2)</span></div><div class="category" data-category="reflection">reflection <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
@@ -202,8 +204,11 @@ window.Quarto = {
          <option value="listing-title" data-direction="asc">
           Title
         </option>
-         <option value="listing-author" data-direction="asc">
-          Author
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
         </option>
      </select>
   </div>
@@ -213,103 +218,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1769563831565" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
-<div class="thumbnail">
-<p><a href="./blog/ek_ghar_ek_kitab.html" class="no-external"></a></p><a href="./blog/ek_ghar_ek_kitab.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./blog/ek_ghar_ek_kitab.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/ek_ghar_ek_kitab.html" class="no-external">Ek Ghar Ek Kitab</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/ek_ghar_ek_kitab.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/ek_ghar_ek_kitab.html" class="no-external">The aim is to provide books to a remote village in Rolpa.</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./blog/ek_ghar_ek_kitab.html" class="no-external"></a></p><a href="./blog/ek_ghar_ek_kitab.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1769563831565" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
-<div class="thumbnail">
-<p><a href="./blog/2024 in hindsight.html" class="no-external"></a></p><a href="./blog/2024 in hindsight.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./blog/2024 in hindsight.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2024 in hindsight.html" class="no-external">2024 in hindsight</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2024 in hindsight.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/2024 in hindsight.html" class="no-external">
-
-<section id="snapshots" class="level3">
-
-<ul>
-<li>went to farwest-nepal</li>
-<li>graduated</li>
-<li>wrote stuffs; consistently.</li>
-<li>enrolled in a research position at cshl</li>
-<li>moved to a new city; such a quiet neighborhood.</li>
-<li>visited boston. kind…</li><li></li><li><ul><li></li></ul></li><li></li><li><strong></strong><em></em></li><li><strong></strong><ul><li></li></ul></li><li></li><li></li></ul></section><section id="back-to-the-future" class="level3"><ul><li></li><li><ul><li></li><li><ul><li></li></ul></li></ul></li><li></li><li></li><li></li></ul></section></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./blog/2024 in hindsight.html" class="no-external"></a></p><a href="./blog/2024 in hindsight.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1769564350957" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
-<div class="thumbnail">
-<p><a href="./blog/Books to Read in 2025.html" class="no-external"></a></p><a href="./blog/Books to Read in 2025.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./blog/Books to Read in 2025.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/Books to Read in 2025.html" class="no-external">Books to Read in 2025</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/Books to Read in 2025.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/Books to Read in 2025.html" class="no-external">
-
-<section id="fiction" class="level3">
-
-<ul class="task-list">
-<li><label><input type="checkbox" checked="">The House of Spirits by Isabel Allende</label></li>
-<li><label><input type="checkbox">Letters to Milena - Kafka</label></li>
-<li><label><input type="checkbox">An Intro to Systems Biology - Uri Alon</label></li>
-<li><label><input type="checkbox" checked="">Stories of Chekov</label></li>
-<li><label><input type="checkbox">East of Eden by John Steinbeck</label></li>
-</ul>
-</section>
-<section id="non-fiction" class="level3">
-
-<ul class="task-list">
-<li><label><input type="checkbox">Braiding…</label></li><li><label><input type="checkbox"></label></li></ul></section></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./blog/Books to Read in 2025.html" class="no-external"></a></p><a href="./blog/Books to Read in 2025.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1769564316729" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
-<div class="thumbnail">
-<p><a href="./blog/Essays_to_read.html" class="no-external"></a></p><a href="./blog/Essays_to_read.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./blog/Essays_to_read.html" class="no-external"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="0" data-categories="reading-list,essays" data-listing-date-sort="1769490000000" data-listing-file-modified-sort="1769565239455" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./blog/Essays_to_read.html" class="no-external">Essays to Read</a>
@@ -317,29 +226,107 @@ window.Quarto = {
 <div class="listing-subtitle">
 <a href="./blog/Essays_to_read.html" class="no-external"></a>
 </div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('reading-list'); return false;">
+reading-list
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('essays'); return false;">
+essays
+</div>
+</div>
 <div class="listing-description">
-<a href="./blog/Essays_to_read.html" class="no-external">
-
-<section id="human-nature" class="level3">
-
-<ul class="task-list">
-<li><label><input type="checkbox">On Self-Respect by Joan Didion</label></li>
-</ul>
-</section>
-<section id="phiosophy-of-science" class="level3">
-
-<ul class="task-list">
-<li><label><input type="checkbox">Degrees of Explanation by FA Hayek</label></li>
-<li><label><input type="checkbox">The Possessed Machines</label></li>
-</ul>
-
-
-</section>
-</a>
+<a href="./blog/Essays_to_read.html" class="no-external">A curated list of essays on human nature and philosophy of science</a>
 </div>
 </div>
 <div class="metadata">
-<p><a href="./blog/Essays_to_read.html" class="no-external"></a></p><a href="./blog/Essays_to_read.html" class="no-external">
+<a href="./blog/Essays_to_read.html" class="no-external">
+<div class="listing-date">
+Jan 27, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="reading-list,books" data-listing-date-sort="1746244800000" data-listing-file-modified-sort="1769565239443" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/Books to Read in 2025.html" class="no-external">Books to Read in 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/Books to Read in 2025.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('reading-list'); return false;">
+reading-list
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('books'); return false;">
+books
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/Books to Read in 2025.html" class="no-external">Reading list for 2025 with fiction and non-fiction selections</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/Books to Read in 2025.html" class="no-external">
+<div class="listing-date">
+May 3, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="reflection,personal" data-listing-date-sort="1737176400000" data-listing-file-modified-sort="1769565239443" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2024 in hindsight.html" class="no-external">2024 in hindsight</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/2024 in hindsight.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('reflection'); return false;">
+reflection
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('personal'); return false;">
+personal
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/2024 in hindsight.html" class="no-external">Reflections on the year 2024: travels, readings, and future plans</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/2024 in hindsight.html" class="no-external">
+<div class="listing-date">
+Jan 18, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="project,initiative" data-listing-date-sort="1735102800000" data-listing-file-modified-sort="1769565239444" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/ek_ghar_ek_kitab.html" class="no-external">Ek Ghar Ek Kitab</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/ek_ghar_ek_kitab.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('project'); return false;">
+project
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('initiative'); return false;">
+initiative
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/ek_ghar_ek_kitab.html" class="no-external">A book distribution initiative for a remote village in Rolpa, Nepal</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/ek_ghar_ek_kitab.html" class="no-external">
+<div class="listing-date">
+Dec 25, 2024
+</div>
 </a>
 </div>
 </div>

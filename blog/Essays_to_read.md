@@ -1,3 +1,10 @@
+---
+title: "Essays to Read"
+date: 2026-01-27
+description: "A curated list of essays on human nature and philosophy of science"
+categories: [reading-list, essays]
+---
+
 ## Essays to Read
 
 

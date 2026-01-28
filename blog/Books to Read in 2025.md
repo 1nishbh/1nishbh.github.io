@@ -1,3 +1,10 @@
+---
+title: "Books to Read in 2025"
+date: 2025-05-03
+description: "Reading list for 2025 with fiction and non-fiction selections"
+categories: [reading-list, books]
+---
+
 ## Books to Read in 2025
 ### Fiction
 - [x] The House of Spirits by Isabel Allende
