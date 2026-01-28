@@ -9,7 +9,7 @@ title-block-banner: true
 
 \
 
-#[Resume](https://1nishbh.github.io/resume/){target="_blank"}
+<!-- [Resume](https://1nishbh.github.io/resume/){target="_blank"} -->
 
 
 \
