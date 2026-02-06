@@ -1,14 +1,14 @@
 ---
-title: "Reading Notes"
-page-layout: full
-title-block-banner: true
 listing:
   contents: readings
-  sort: "last-modified desc"
+  sort: "date desc"
   type: default
-  categories: false
+  categories: true
   sort-ui: true
   filter-ui: true
+  fields: [date, title, description, categories]
+page-layout: full
+title-block-banner: true
 ---
 
-*Welcome to my reading list! Here you'll find highlights, summaries, reviews, and thoughts on various books and articles I've read.*
+# Welcome to my reading list or highlights or reviews!

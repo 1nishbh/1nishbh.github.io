@@ -1,6 +1,8 @@
 ---
 tags:
 - book/
+date: 2025-11-01
+categories: [books, highlights]
 ---
 
 # 📔 Book: What We Owe to Future People

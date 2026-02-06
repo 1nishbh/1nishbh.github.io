@@ -1,6 +1,8 @@
 ---
 tags:
 - book/
+date: 2025-08-01
+categories: [books, highlights]
 ---
 
 # 📔 Book: The Myth of Sisyphus

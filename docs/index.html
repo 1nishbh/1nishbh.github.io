@@ -137,14 +137,42 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="section"><a href="https://github.com/1nishbh/novel.git" target="_blank">.. …</a></h3>
 <p><br>
 </p>
-</section>
-<section id="ओभन" class="level3">
-<h3 class="anchored" data-anchor-id="ओभन"><a href="https://1nishbh.github.io/-/#/title-slide" target="_blank">ओभानो</a></h3>
-<p><br>
-</p>
+<h3 class="anchored">
+<p><a href="#" id="unlock-obhano"> 🔒 ओभानो </a></p>
+<a href="https://1nishbh.github.io/-/#/title-slide" id="obhano-link" target="_blank" style="display:none; margin-left: 0.5rem;"> 🔓 ओभानो </a>
+</h3>
 </section>
 <section id="where-are-we-going-tracing-the-ever-evolving-tale-of-human-migration" class="level3">
 <h3 class="anchored" data-anchor-id="where-are-we-going-tracing-the-ever-evolving-tale-of-human-migration"><a href="https://1nishbh.github.io/Migration-Our-Story-as-a-Mobile-Species/blog.html" target="_blank">Where are We Going? Tracing the Ever-Evolving Tale of Human Migration</a></h3>
+<script>
+  (function () {
+    const password = "winetesting321";
+    const unlockBtn = document.getElementById("unlock-obhano");
+    const realLink = document.getElementById("obhano-link");
+
+    if (!unlockBtn || !realLink) return;
+
+    // If already unlocked this session
+    if (sessionStorage.getItem("obhanoUnlocked") === "true") {
+      unlockBtn.style.display = "none";
+      realLink.style.display = "inline";
+      return;
+    }
+
+    unlockBtn.addEventListener("click", function (e) {
+      e.preventDefault();
+      const input = prompt("Password:");
+
+      if (input === password) {
+        sessionStorage.setItem("obhanoUnlocked", "true");
+        unlockBtn.style.display = "none";
+        realLink.style.display = "inline";
+      } else if (input !== null) {
+        alert("Incorrect password");
+      }
+    });
+  })();
+</script>
 
 
 </section>

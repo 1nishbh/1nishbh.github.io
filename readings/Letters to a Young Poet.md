@@ -3,6 +3,8 @@ title: "Letters to a Young Poet"
 tags:
   - "book"
 format: html
+date: 2025-10-01
+categories: [books, highlights]
 ---
 
 
