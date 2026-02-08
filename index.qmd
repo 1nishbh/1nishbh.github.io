@@ -41,7 +41,7 @@ title-block-banner: true
 
 <script>
   (function () {
-    const password = "winetesting321";
+    const password = "ninetesting321";
     const unlockBtn = document.getElementById("unlock-obhano");
     const realLink = document.getElementById("obhano-link");
 
