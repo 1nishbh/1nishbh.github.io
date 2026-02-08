@@ -23,13 +23,13 @@ title-block-banner: true
 
 <h3>
   <a href="#" id="unlock-obhano">
-    ओभानो
+    **ओभानो**
   </a>
 
   <a href="https://1nishbh.github.io/-/#/title-slide"
      id="obhano-link"
      target="_blank"
-     style="display:none; margin-left: 0.5rem;">
+     style="display:none;">
     ओभानो
   </a>
 </h3>

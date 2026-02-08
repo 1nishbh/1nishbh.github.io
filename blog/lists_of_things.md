@@ -34,3 +34,11 @@ if you're a researcher, what kind of lists would you make?
 
 
 
+```{=html}
+<script>
+  document.querySelectorAll('a[href^="http"]').forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener');
+  });
+</script>
+```

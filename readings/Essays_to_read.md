@@ -16,7 +16,7 @@ categories: [reading-list, essays]
 -   [ ] Notes on "Camp" by Susan Sontag
 -   [ ] Once More to the Lake by E.B. White
 
-### Phiosophy of science/ progress
+### Phiosophy of science/ progress/ Ambition
 
 -   [ ] Degrees of Explanation by FA Hayek
 -   [ ] [The Possessed Machines](https://possessedmachines.com/)
@@ -24,6 +24,11 @@ categories: [reading-list, essays]
 -   [ ] [How Life (and Death) Spring From Disorder](https://www.wired.com/2017/02/life-death-spring-disorder/)
 -   [ ] [Of Flying Cars and the Declining Rate of Profit](https://thebaffler.com/salvos/of-flying-cars-and-the-declining-rate-of-profit)
 -   [ ] The Work of Art in the Age of Mechanical Reproduction by Walter Benjamin
+-   [ ] The Art of Doing Science and Engineering by Richard Hamming
+    - [You and Your Research (annotated)](https://gwern.net/doc/science/1986-hamming)
+    - Advice for a young investigator by Ramon y Cajal.
+    - Letters to a Young Scientist by EO Wilson
+-   [ ] [Poetry and Ambition by poets.org](https://poets.org/text/poetry-and-ambition)
 
 ### Philosophy / Reasoning
 
@@ -46,10 +51,11 @@ categories: [reading-list, essays]
 6.  [Roberto Bolaño recommends](https://rateyourmusic.com/list/respirateur/roberto-bolano-recommends/)
 7.  [Paul Graham's Essays](https://paulgraham.com/articles.html)
 
-
+```{=html}
 <script>
   document.querySelectorAll('a[href^="http"]').forEach(link => {
     link.setAttribute('target', '_blank');
     link.setAttribute('rel', 'noopener');
   });
 </script>
+```
