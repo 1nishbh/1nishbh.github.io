@@ -1,7 +1,7 @@
 ---
 title: "2025 in hindsight"
-date: 2025-02-16
-description: "looking back to 2025"
+date: 2026-02-16
+description: "looking back: 2025"
 categories: [reflection, personal]
 ---
 
