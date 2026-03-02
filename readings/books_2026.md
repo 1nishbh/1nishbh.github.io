@@ -1,10 +1,15 @@
-# Reading List for 2026
+---
+title: "Reading list 2026"
+date: 2026-03-01
+description: ""
+categories: [reading-list, books]
+---
 
 ## Biology
 
 1.  Junk DNA: A Journey Through the Dark Matter of the Genome by Nessa Carey
 2.  The Vital Question by Nick Lane
-3.  [30 Great essays about biology](https://www.nmccarty.com/p/30-essays)
+3.  [30 Great essays about biology](https://nikomc.com/2026/02/23/30-great-essays-about-biology/)
     -  The importance of stupidity in scientific research - Martin A. Schwartz
     -  More is different - P.W. Adnerson
     -  The spandrels of San Marco and the Panglossian paradigm - Stephen Jay Gould & Richard Lewontin
