@@ -1,11 +1,12 @@
 ---
 title: "Reading list 2026"
 date: 2026-03-01
-description: ""
+description: "Reading list 2026"
 categories: [reading-list, books]
 ---
+## Books 2026
 
-## Biology
+### Biology
 
 1.  Junk DNA: A Journey Through the Dark Matter of the Genome by Nessa Carey
 2.  The Vital Question by Nick Lane
@@ -18,13 +19,13 @@ categories: [reading-list, books]
 
 4.  An introduction to systems biology by Uri Alon
 
-## Interdisciplinary/Philosophy
+### Interdisciplinary/Philosophy
 
 1.  What Is Life? by Erwin Schrödinger
 2.  Gödel, Escher, Bach
 3.  The Demon-Haunted World by Carl Sagan and Ann Druyan
 
-## Fictions
+### Fictions
 1. Blood Meridian by McCarthy (if i can be patient with it)
 2. Reread parts of 2066
 3. A short stay in Hell Steven L. Peck
