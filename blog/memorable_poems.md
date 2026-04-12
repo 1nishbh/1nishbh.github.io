@@ -1,3 +1,10 @@
+---
+title: "Poems that I loved"
+date: 2026-04-12
+description: "memorable lines from readings"
+categories: [poems, reading]
+---
+
 some poems/lines that, in my opinion, have mastered the use of language and that have stayed with me long after reading them:
 
 **Muneer Niyazi [^1]** 
