@@ -23,24 +23,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,77 +66,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Nischal Bhandari</span>
     </a>
   </div>
@@ -149,19 +89,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./readings.html"> 
+    <a class="nav-link" href="../readings.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blogs.html" aria-current="page"> 
+    <a class="nav-link" href="../blogs.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./reach-out.html"> 
+    <a class="nav-link" href="../reach-out.html"> 
 <span class="menu-text">Reach Out</span></a>
   </li>  
 </ul>
@@ -172,243 +112,82 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="blog">blog <span class="quarto-category-count">(1)</span></div><div class="category" data-category="books">books <span class="quarto-category-count">(1)</span></div><div class="category" data-category="essays">essays <span class="quarto-category-count">(1)</span></div><div class="category" data-category="initiative">initiative <span class="quarto-category-count">(1)</span></div><div class="category" data-category="personal">personal <span class="quarto-category-count">(2)</span></div><div class="category" data-category="project">project <span class="quarto-category-count">(1)</span></div><div class="category" data-category="reading-list">reading-list <span class="quarto-category-count">(2)</span></div><div class="category" data-category="reflection">reflection <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 
 
-<section id="blogs" class="level1">
-<h1>Blogs</h1>
-<!-- ## [Medium Articles](https://nistar.medium.com) -->
-<script>
-  document.querySelectorAll('a[href^="http"]').forEach(link => {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener');
-  });
-</script>
+<p>some poems/lines that, in my opinion, have mastered the use of language and that have stayed with me long after reading them:</p>
+<p><strong>Muneer Niyazi <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></strong></p>
+<blockquote class="blockquote">
+<p>Aj da din vii ainvein e langyaa<br>
+koii vii kaam naa hoya<br>
+purab valooN chaRRya suraj<br>
+paschaam vaang khaloyaa<br>
+naa milyaa mai halqat naa mai yaad khuda nuu kitaa<br>
+naa mai paRii namaaz<br>
+te naa mai jaam sharaab daa piitaa<br>
+khushi naa gham koii kol naa aayaa<br>
+naa hasyaa naa royaa<br>
+aj da din vii ainvein e langyaa<br>
+</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>kal dekha aik aadmi atta safar ki dhool mein<br>
+gum thaa apny aap mein jaisy khusbhu phool mein</p>
+</blockquote>
+<p><strong>W.H Auden<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></strong></p>
+<blockquote class="blockquote">
+<p>in Brueghel’s Icarus<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>, for instance: how everything turns away<br>
+quite leisurely from the disaster; the ploughman may<br>
+have heard the splash, the foresaken cry<br>
+but for him it was not an important failure; the sun shone<br>
+as it had to on the white legs disappearing into the green<br>
+water; and the delicate expensive ship that must have seen<br>
+something amazing, a boy falling out of the sky,<br>
+had somewhere to get to and sailed calmly on.</p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels%2C_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg/3840px-Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels%2C_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg" class="img-fluid figure-img"></p>
+<figcaption>Bruegel’s Landscape with the Fall of Icarus</figcaption>
+</figure>
+</div>
+<p><strong>William Carlos William’s The Red Wheelbarrow<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://josiehowattcommonplace.wordpress.com/wp-content/uploads/2016/05/redwheel.jpg" class="img-fluid figure-img"></p>
+<figcaption>THE RED WHEELBARROW</figcaption>
+</figure>
+</div>
+<p><strong>Charles Tomilson’s Farewell to Van Gogh</strong></p>
+<blockquote class="blockquote">
+<p>Farwell, and for your instructive frenzy<br>
+gratitude. the world doesn’t end tonight<br>
+and the fruit that we shall pick tomorrow<br>
+await us, weighing the unstripped bough.</p>
+</blockquote>
+<p><br>
+<br>
+<em>to be updated</em></p>
 
 
 
-</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1776004972450" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/memorable_poems.html" class="no-external"></a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/memorable_poems.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./blog/memorable_poems.html" class="no-external">some poems/lines that, in my opinion, have mastered the use of language and that have stayed with me long after reading them:</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./blog/memorable_poems.html" class="no-external"></a></p><a href="./blog/memorable_poems.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="reflection,personal" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1771300629941" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2025_looking_back.html" class="no-external">2025 in hindsight</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2025_looking_back.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('reflection'); return false;">
-reflection
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('personal'); return false;">
-personal
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/2025_looking_back.html" class="no-external">looking back: 2025</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2025_looking_back.html" class="no-external">
-<div class="listing-date">
-Feb 16, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="blog" data-listing-date-sort="1770526800000" data-listing-file-modified-sort="1770584097699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="252">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/lists_of_things.html" class="no-external">List of things–or going listless?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/lists_of_things.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/lists_of_things.html" class="no-external">A curated personal list of things</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/lists_of_things.html" class="no-external">
-<div class="listing-date">
-Feb 8, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="reading-list,essays" data-listing-date-sort="1769490000000" data-listing-file-modified-sort="1770338397559" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/Essays_to_read.html" class="no-external">Essays to Read - 2026</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/Essays_to_read.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('reading-list'); return false;">
-reading-list
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('essays'); return false;">
-essays
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/Essays_to_read.html" class="no-external">A curated list of essays</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/Essays_to_read.html" class="no-external">
-<div class="listing-date">
-Jan 27, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="reading-list,books" data-listing-date-sort="1746244800000" data-listing-file-modified-sort="1770338416300" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/Books to Read in 2025.html" class="no-external">Books to Read in 2025</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/Books to Read in 2025.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('reading-list'); return false;">
-reading-list
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('books'); return false;">
-books
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/Books to Read in 2025.html" class="no-external">Reading list for 2025 with fiction and non-fiction selections</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/Books to Read in 2025.html" class="no-external">
-<div class="listing-date">
-May 3, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="reflection,personal" data-listing-date-sort="1737176400000" data-listing-file-modified-sort="1769565239443" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2024 in hindsight.html" class="no-external">2024 in hindsight</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/2024 in hindsight.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('reflection'); return false;">
-reflection
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('personal'); return false;">
-personal
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/2024 in hindsight.html" class="no-external">Reflections on the year 2024: travels, readings, and future plans</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/2024 in hindsight.html" class="no-external">
-<div class="listing-date">
-Jan 18, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="project,initiative" data-listing-date-sort="1735102800000" data-listing-file-modified-sort="1769565239444" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/ek_ghar_ek_kitab.html" class="no-external">Ek Ghar Ek Kitab</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./blog/ek_ghar_ek_kitab.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('project'); return false;">
-project
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('initiative'); return false;">
-initiative
-</div>
-</div>
-<div class="listing-description">
-<a href="./blog/ek_ghar_ek_kitab.html" class="no-external">A book distribution initiative for a remote village in Rolpa, Nepal</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./blog/ek_ghar_ek_kitab.html" class="no-external">
-<div class="listing-date">
-Dec 25, 2024
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>https://www.rekhta.org/poets/muneer-niyazi/all<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>https://www.poetryfoundation.org/poems/159364/musee-des-beaux-arts-63a1efde036cd<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>https://josiehowattcommonplace.wordpress.com/wp-content/uploads/2016/05/redwheel.jpg<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
