@@ -29,7 +29,22 @@ gum thaa apny aap mein jaisy khusbhu phool mein
 
 ### **Musée des Beaux Arts[^2]**
 
-> in Brueghel's Icarus[^3], for instance: how everything turns away\
+> about suffering they were never wrong\
+the old masters: how well they understood\
+its human position; how it takes place\
+while someone else is eating or opening a window or just walking dully along\
+\
+how, when the aged are reverently, passionately waiting\
+for the mirculous birth, there always muste be\
+children who did not especially want it to happen, skating\
+on a pond at the edge of the wood:\
+they never forgot\
+that even the dreadfu; martyrdom must run its course\
+anyhow in a corner, some untidy spot\
+where the dogs go on with their doggy life and the torturer's horse\
+scratch its innocent behind on a tree\
+\
+in Brueghel's Icarus[^3], for instance: how everything turns away\
 quite leisurely from the disaster; the ploughman may\
 have heard the splash, the foresaken cry\
 but for him it was not an important failure; the sun shone\
@@ -39,6 +54,11 @@ something amazing, a boy falling out of the sky,\
 had somewhere to get to and sailed calmly on.
 
 ![Bruegel's Landscape with the Fall of Icarus](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels%2C_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg/3840px-Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels%2C_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg)
+
+*i always liked the third stanza of this poem the most.
+but lately my love for the first stanza has grown a lot-- especially i have noticed how both of them are getting to the same crux. the first stanza talks about human suffering happening in one corner of this world while at somewhere distant, or even nearby, someone is simply going on with their life: brushing their teeth, strolling by a farmer's market, etc. and this is visually  demonstrated in the third stanza. the second stanza also hones on the same phenomenon: when a patriot is dying for his land, the torturer's horse is simply scratching its back on a tree.*\
+\
+*on the completely different -- or not so -- note, the poem also calls our attention to the varying facets of life that are happening left and right to us. if we call them into our awareness, maybe something in us slightly changes.*\
 
 ### *in memory of W.B. Yeats* [^5]
 > now he is scattered among a hundred cities\
@@ -95,15 +115,15 @@ how public –– like a frog ––\
 to tell your name –– the living june ––\
 to an admiring bog!
 
-> "hope" is the thing with feathers ——\
-that perches in the soul ——\
-and sings the tune without the words ——\
-and never stops —— at all ——\
+> "hope" is the thing with feathers -- \
+that perches in the soul -- \
+and sings the tune without the words  --  \
+and never stops  --  at all  --  \
 ...\
-i've heard it in the chilliest land ——\
-and on the strangest sea ——\
-yet —— never —— in Extremity——\
-it asked a crumb —— of me. 
+i've heard it in the chilliest land  --  \
+and on the strangest sea  --  \
+yet  --  never  --  in Extremity --  \
+it asked a crumb  -- of me. 
 
 # **William Wordsworth**
 
@@ -130,6 +150,9 @@ with rocks, and stones, and trees.\
 # **Faiz Ahmed Faiz**
 
 # **RUMI**
+> don't be satisfied with stories, how things have gone with others. unfold your own myth.\
+
+> sell your cleverness and buy bewilderment.\
 
 # **ME ME MEEE**
 
