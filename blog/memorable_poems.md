@@ -208,6 +208,13 @@ wherever green is worn,\
 are changed, changed utterly;\
 **a terrible beauty is born.**\
 
+### No second troy
+...\
+with beauty like a tightened-bow, a kind\
+that is not natural in an age like this,\
+being high and solitary and most stern?\
+why, what could she have, being what she is?\
+was there another troy to burn?\
 
 # **Faiz Ahmed Faiz**
 
