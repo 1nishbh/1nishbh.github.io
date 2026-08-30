@@ -147,6 +147,68 @@ with rocks, and stones, and trees.\
 
 # **William Butler Yeats**
 
+### Easter, 1916
+> i have met them at close of day\
+coming with vivid faces\
+from counter or desk among grey\
+eighteen-century houses.\
+i have passed with a nod of the head\
+or polite meaningless words,\
+or have lingered awhile and said\
+polite meaningless words,\
+and thought before i had done\
+of a mocking tale or a gibe\
+to please a companion\
+around the fire at the club,\
+being certain that they and i\
+but lived where motley i worn:\
+all changed, chaged utterly:\
+**a terrible beauty is born**.
+\
+...\
+hearts with one purpose alone\
+through summer and winter seem\
+enchanted to a stone\
+to trouble the living stream.\
+the horse that comes from the road,\
+the rider, the birds that range\
+from cloud to tumbling cloud,\
+minute by minute they change;\
+**a shadow of cloud on the stream**\
+**changes minute by minute**;\
+a horse-hoof slides on the brim,\
+and a horse plashes within it;\
+the long-legged moor-hens dive,\
+and hens to moor-cocks call;\
+minute by minute they live\
+the stone's in the midst of all.\
+\
+**too long a sacrific**\
+**can make a stone of the heart**.\
+O when may it suffice?\
+that is heaven's part, our part\
+to murmur name upon name,\
+as a mother names her child\
+when sleep at last has come\
+on limbs that had run wild\
+what is it but nightfall?\
+no, no, not night but death;\
+**was it needless death after all?\
+for england may keep faith\
+for all that is done and said.\
+we know thei dream; enough\
+to know they dreamed and are dead;\
+and what if excess of love\
+bewildered them till they died?\
+i write it out in a verse––\
+MacDonagh and MacBride\
+And Conolly and Pearse\
+now and in time to be,\
+wherever green is worn,\
+are changed, changed utterly;\
+**a terrible beauty is born.**\
+
+
 # **Faiz Ahmed Faiz**
 
 # **RUMI**
