@@ -1,17 +1,5 @@
 [
   {
-    "listing": "/readings.html",
-    "items": [
-      "/readings/books_2026.html",
-      "/readings/Essays_to_read.html",
-      "/readings/2666.html",
-      "/readings/What We Owe to Future People.html",
-      "/readings/Letters to a Young Poet.html",
-      "/readings/The Myth of Sisyphus.html",
-      "/readings/Books to Read in 2025.html"
-    ]
-  },
-  {
     "listing": "/blogs.html",
     "items": [
       "/blog/Odyssey Allusions.html",
@@ -22,6 +10,18 @@
       "/blog/Books to Read in 2025.html",
       "/blog/2024 in hindsight.html",
       "/blog/ek_ghar_ek_kitab.html"
+    ]
+  },
+  {
+    "listing": "/readings.html",
+    "items": [
+      "/readings/books_2026.html",
+      "/readings/Essays_to_read.html",
+      "/readings/2666.html",
+      "/readings/What We Owe to Future People.html",
+      "/readings/Letters to a Young Poet.html",
+      "/readings/The Myth of Sisyphus.html",
+      "/readings/Books to Read in 2025.html"
     ]
   }
 ]
