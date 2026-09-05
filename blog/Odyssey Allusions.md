@@ -53,8 +53,8 @@ To follow knowledge like a sinking star,\
 Beyond the utmost bound of human thought.\
 ...\
 
-well, in the middle of my search, i found an extensive (which it never can be) list on this topic in her website.[^4] now my only duty is to read them.
----
+well, in the middle of my search, i found an extensive (which it never can be) list on this topic in emily wilson's website.[^4] now my only duty is to read them.
+
 
 [^1]: https://www.blueridgejournal.com/poems/wsm-odysseus.htm
 [^2]: https://www.poetryfoundation.org/poems/51296/ithaka-56d22eef917ec
